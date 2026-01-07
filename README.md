@@ -1,11 +1,16 @@
-# FreeCodeCamp Projects
+## FreeCodeCamp JavaScript Projects
 
-This repository contains my projects from FreeCodeCamp's Responsive Web Design and JavaScript Algorithms certifications.
+A curated selection of JavaScript projects completed as part of the
+FreeCodeCamp JavaScript Algorithms & Data Structures certification.
+These projects focus on DOM manipulation, state management, and
+real-world browser APIs.
 
-## Projects
-- [Registration Form](./registration-form)
-- [Cafe Menu](./cafe-menu)
-- [Roleplaying Game](./roleplaying-game)
+### Highlighted Projects
+- **Calorie Counter** – Form validation, calculations, and dynamic UI updates
+- **Music Player** – Array methods, event handling, and UI state control
+- **Rock, Paper, Scissors** – Game logic and DOM manipulation
+- **Statistics Calculator** – Advanced array methods and data processing
+- **LocalStorage To-Do App** – Persistent state using browser storage
+- **Spam Filter** – Regular expressions for text processing
 
-
-Each folder contains source code for the project.
+> Additional learning exercises are included in this repository but not listed here for brevity.
